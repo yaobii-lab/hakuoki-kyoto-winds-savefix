@@ -1,0 +1,5 @@
+HakuokiWin.exe
+*.bak
+*.tmp
+*.zip
+.DS_Store
